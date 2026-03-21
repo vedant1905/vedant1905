@@ -1,5 +1,5 @@
-## Hi there 👋
-# Hi, I'm Vedant 
+## Hey there 👋
+#  I'm Vedant 
 
 Information Technology student focused on Cyber security, recon, and offensive security.
 Learning through CTFs, bug bounty, and building practical security tools.
@@ -39,8 +39,8 @@ Learning through CTFs, bug bounty, and building practical security tools.
 
 ## Platforms
 
-- TryHackMe: https://tryhackme.com/p/theemaytry
-- HackTheBox: [https://profile.hackthebox.com/profile/019d0f96-9300-7174-87f5-f3119cbcf0ab]
+- TryHackMe: [link](https://tryhackme.com/p/theemaytry)
+- HackTheBox: [link](https://profile.hackthebox.com/profile/019d0f96-9300-7174-87f5-f3119cbcf0ab)
 
 ---
 
